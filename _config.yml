@@ -6,7 +6,7 @@ email: zqian186@163.com
 description: "快乐总是随心而来."
 keyword: "Modest,逸云"
 url: "https://BraveFaith.github.io"          # your host, for absolute URL
-baseurl: "https://BraveFaith.github.ioo"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://BraveFaith.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/BraveFaith/BraveFaith.github.io.git" # you code repository
 
 # Sidebar settings
