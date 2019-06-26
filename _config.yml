@@ -6,7 +6,7 @@ email: zqian186@163.com
 description: "快乐总是随心而来."
 keyword: "Modest,逸云"
 url: "https://bravefaith.github.io/modest.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "bravefaith.github.io/modest.github.io"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/BraveFaith/modest.github.io.git" # you code repository
 root:/bravefaith.github.io/modest.github.io
 # Sidebar settings
